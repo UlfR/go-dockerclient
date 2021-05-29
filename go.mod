@@ -17,7 +17,7 @@ require (
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
-	github.com/opencontainers/runc v0.1.1 // indirect
+	github.com/opencontainers/runc v1.0.0-rc95+dev // indirect
 	golang.org/x/sys v0.0.0-20210216224549-f992740a1bac // indirect
 	golang.org/x/term v0.0.0-20201113234701-d7a72108b828
 	gotest.tools/v3 v3.0.3 // indirect
